@@ -1,12 +1,10 @@
 ---
-
-# 🔐 PasswordStore Protocol Audit
-
-**Date:** July 17, 2025
-**Author:** Abdullahi Naqeeb Salati
-**Repository:** [github.com/naqeebsalati/19-07-2025-PasswordStore-Audit-report.pdf(https://github.com/naqeebsalati)
-
+title: "🔐 PasswordStore Protocol Audit"
+date: "July 17, 2025"
+author: "Abdullahi Naqeeb Salati"
+repository: "https://github.com/naqeebsalati/19-07-2025-PasswordStore-Audit-report.pdf"
 ---
+
 
 ## 📄 About This Repository
 
