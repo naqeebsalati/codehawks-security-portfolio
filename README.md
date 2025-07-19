@@ -4,7 +4,7 @@
 
 **Date:** July 17, 2025
 **Author:** Abdullahi Naqeeb Salati
-**Repository:** [github.com/naqeebsalati/<repo-name>](https://github.com/naqeebsalati)
+**Repository:** [github.com/naqeebsalati/19-07-2025-PasswordStore-Audit-report.pdf(https://github.com/naqeebsalati)
 
 ---
 
@@ -72,7 +72,7 @@ This repository is part of my public **security audit portfolio** to demonstrate
 ## 📎 Report PDF
 
 You can download and read the full detailed audit report here:
-➡️ **[2025-07-17 PasswordStore Audit Report.pdf](./2025-07-17%20PasswordStore%20Audit%20Report.pdf)**
+➡️ **[2025-07-17 PasswordStore Audit Report.pdf](./19-07-2025-PasswordStore-Audit-report.pdf)**
 
 ---
 
